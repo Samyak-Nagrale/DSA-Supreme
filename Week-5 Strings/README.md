@@ -4,3 +4,5 @@ From the most basic to the Interview level questions.
 
 These are the list of Questions:
 1) Reverse a string
+2) Replace the spaces in a string with '@' symbol
+   
